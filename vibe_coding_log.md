@@ -168,12 +168,11 @@ hello
 calc 2 + 3 * 4
 calc (2 + 3) * 4
 exit
-'''
+```
 
 The new code generated is seen below:
 
-
-'''c
+```c
 
 #include <ctype.h>
 #include <errno.h>
@@ -415,5 +414,5 @@ int main(void)
 
     return 0;
 }
-'''
+```
 
