@@ -15,7 +15,7 @@ The program uses `fgets` to read user input and terminates when the user enters
 - Prints a greeting when the input contains `hello`.
 - Terminates when the user enters `exit`.
 - Echoes any other input back to the user.
-- Uses only standard C libraries: `<stdio.h>` and `<string.h>`.
+- Uses only standard C libraries.
 
 ## Development Tools
 
